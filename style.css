@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+table#game td {
+    background-color: beige;
+    height: 150px;
+    width: 150px;
+    font-size: 35pt;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 9px;
+    border: solid lightseagreen 6px;
+}
+
+button#restart{
+    border-radius: 15px;
+    color:white;
+    font-size: 20pt;
+    background-color: palevioletred;
+    padding: 8px;
+    margin-bottom: 20px;
+}
